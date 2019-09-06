@@ -6,7 +6,14 @@ Tá, mas como eu faço um comentário? <br><br>
 Os comentários são iniciados com duas barras "**//**" no nosso querido PHP. Tá, mas eai?<br>
 Os comentários não são interpretados quando o código está sendo lido, então você pode usar e abusar dos mesmos pra documentar tudo que você achar importante. Veja o código abaixo:
 
-<script src="https://gist.github.com/DanielHe4rt/acb8b34b7932573969553d0ca33dd733.js"></script>
+```php
+<?php
+// Este é um comentário muito foda q vai explicar tudo abaixo
+// Mentira nem vai nada não
+echo "He4rtDevs <3";
+// Será que isso vai ser interpretado?
+// To com fome
+```
 <center><i>Arquivo encontrado em: exemplos/comentarios1.php</i></center>
 Você pode executar o exemplo acima com o comando abaixo:<br>
 
